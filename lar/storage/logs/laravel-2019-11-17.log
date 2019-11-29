@@ -1,0 +1,4 @@
+[2019-11-17 20:55:07] local.ERROR: Class 'App\Http\Controllers\LoginController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\LoginController' not found at F:\\ATP3\\Final\\fall_2019_20_laravel-8de5c88bfe457f6785af57f2d91439a63f102e1c\\lar\\app\\Http\\Controllers\\LoginController.php:10)
+[stacktrace]
+#0 {main}
+"} 
